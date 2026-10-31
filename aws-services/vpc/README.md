@@ -1,6 +1,17 @@
 # AWS VPC
 
-VPC configuration and documentation.
+## Service
+Amazon Virtual Private Cloud
 
-Service: Amazon Virtual Private Cloud
-Purpose: Create an isolated AWS network.
+## Purpose
+To create an isolated network in AWS.
+
+## Project Usage
+- Create custom VPC
+- Configure CIDR block
+- Create public and private subnets
+- Configure route tables
+- Connect Internet Gateway
+
+## Status
+Documentation Created
