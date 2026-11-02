@@ -72,7 +72,11 @@ The project will be implemented step by step:
 
 ## Screenshots
 
-Screenshots of actual AWS configurations and testing results will be added here.
+<img width="1917" height="1018" alt="Screenshot 2026-11-01 223722" src="https://github.com/user-attachments/assets/1a934c12-2bd8-4239-9258-b763fdab54a7" />
+
+<img width="1917" height="1016" alt="Screenshot 2026-11-01 231346" src="https://github.com/user-attachments/assets/9ba4d7a1-2542-4703-bdde-8c3f2625d21b" />
+
+
 
 ## Learning Outcomes
 
