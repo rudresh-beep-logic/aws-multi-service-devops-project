@@ -1,4 +1,3 @@
-<img width="2720" height="3840" alt="aws_devops_network_application_architecture" src="https://github.com/user-attachments/assets/5056bf3f-2f5e-4bb5-8ada-70db1c9fa283" /># AWS Multi-Service DevOps Project
 
 ## Project Overview
 
@@ -50,7 +49,8 @@ The project focuses on AWS infrastructure, networking, security, server manageme
 ## Project Architecture
 
 Architecture diagrams will be added here after implementation.
-<img width="2720" height="3840" alt="aws_devops_network_application_architecture" src="https://github.com/user-attachments/assets/3570cf3d-30fc-41d4-8704-8304dd094467" />
+<img width="2720" height="3840" alt="aws_devops_network_application_architecture" src="https://github.com/user-attachments/assets/5056bf3f-2f5e-4bb5-8ada-70db1c9fa283" /># AWS Multi-Service DevOps Project
+
 
 
 ## Project Implementation
